@@ -42,6 +42,6 @@ I love collaborating with like-minded innovators to **solve problems with purpos
 
 ## 📊 GitHub Stats
 <p align="center">
-  [<img src="https://github-readme-stats.vercel.app/api?username=KeithYves08&show_icons=true&theme=radical" height="165" />](https://github-readme-stats.vercel.app/api?username=KeithYves08&show_icons=true&theme=radical&count_private=true)
-  [<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeithYves08&layout=compact&theme=radical" height="165" />](https://github-readme-stats.vercel.app/api/top-langs/?username=KeithYves08&layout=compact&theme=radical)
+  <img src="https://github-readme-stats.vercel.app/api?username=KeithYves08&show_icons=true&theme=radical&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeithYves08&layout=compact&theme=radical" height="165" />
 </p>
