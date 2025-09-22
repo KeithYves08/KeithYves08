@@ -7,24 +7,18 @@
 
 ---
 
-## 💻 Developer
-- **Connects**: Building intuitive web interfaces that bring people together  
-- **Builds**: Developing robust full-stack solutions for complex challenges  
-- **Heals**: Creating accessible technology that empowers communities  
+## 💻 What I Do
+- **Connects**: Intuitive web interfaces that bring people together  
+- **Builds**: Robust full-stack solutions for real-world challenges  
+- **Heals**: Accessible tech that empowers communities  
 
 ---
 
-## 🎓 Student Leader
-- **Organizes**: Leading meetups, workshops, and collaborative learning sessions  
-- **Mentors**: Guiding fellow students in academic and personal development  
-- **Advocates**: Promoting inclusive practices and student welfare initiatives  
+## 🎓 About Me
+I’m **Keith Yves Robles**, a **3rd-year Computer Science student at NU Laguna**,  
+consistent **Dean’s Lister**, **UAEB Scholar**, and active **student leader**.  
 
----
-
-## 🙋 About Me
-My name is **Keith Yves Robles**. I'm a passionate **3rd-year Computer Science student at NU Laguna** who thrives on creating innovative digital experiences.  
-As a **consistent Dean’s Lister, UAEB Scholar, and active student leader**, I combine technical excellence with a deep commitment to community impact.  
-I love collaborating with like-minded innovators to **solve real-world problems** and **level up every project with purpose and polish**.  
+I love collaborating with like-minded innovators to **solve problems with purpose and polish**.  
 
 ---
 
@@ -50,11 +44,4 @@ I love collaborating with like-minded innovators to **solve real-world problems*
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KeithYves08&show_icons=true&theme=radical" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeithYves08&layout=compact&theme=radical" height="165" />
-</p>
-
----
-
-## 🌐 Connect With Me
-<p align="center">
-  <a href="https://github.com/KeithYves08"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
