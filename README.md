@@ -1,16 +1,12 @@
-## Hi there 👋
+# 👋 Hi, I'm Keith Robles
+🎓 2nd-year Computer Science student  
+💡 Passionate about full-stack development, game design, and tech innovations  
+🏆 Dean’s Lister | Scholar | Council of Leaders  
 
-<!--
-**KeithYves08/KeithYves08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔧 Tech Stack
+- **Languages:** Java, C++, Python, PHP  
+- **Web:** HTML, CSS, React, Tailwind  
+- **Tools:** Git, VSCode, Android Studio  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![Keith's GitHub stats](https://github-readme-stats.vercel.app/api?username=keithrobles&show_icons=true&theme=radical)
