@@ -1,9 +1,8 @@
 # 👋 Hi, I'm Keith Yves!
 **Developer | Student Leader | Community Builder**
 
-> **Code that Connects, Builds, Heals**  
-> Creating code that connects people through intuitive interfaces, builds robust solutions for real-world problems,  
-> and heals communities by bridging digital divides with purposeful technology.
+> **Code that Connects and Builds**  
+> Creating code that connects people through intuitive interfaces, builds robust solutions for real-world problems with purposeful technology.
 
 ---
 
