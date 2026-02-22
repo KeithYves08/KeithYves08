@@ -9,7 +9,7 @@
 ## 💻 What I Do
 - **Connects**: Intuitive web interfaces that bring people together  
 - **Builds**: Robust full-stack solutions for real-world challenges  
-- **Heals**: Accessible tech that empowers communities  
+
 
 ---
 
